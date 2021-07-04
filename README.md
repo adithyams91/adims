@@ -1,0 +1,2 @@
+# adims
+firstexercise
